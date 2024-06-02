@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths":{
+            "@/example/*": ["ex/exm/*"],
+            "@utils/*": ["utils/*"],
+            "@styles/*": ["styles/*"]
+        }
+    }
+}
